@@ -1,0 +1,6 @@
+links
+https://docs.djangoproject.com/en/1.10/howto/windows/
+
+https://www.toptal.com/django/installing-django-on-iis-a-step-by-step-tutorial
+
+http://djangobook.com/installing-django/
